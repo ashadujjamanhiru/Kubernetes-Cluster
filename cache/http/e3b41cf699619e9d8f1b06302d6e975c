@@ -1,0 +1,9 @@
+HTTP/2.0 200 OK
+Content-Length: 207
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Thu, 29 Jul 2021 11:00:18 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 95d3ba31-5eb3-4c05-9a71-990a6413a728
+X-Kubernetes-Pf-Prioritylevel-Uid: a3d60c7e-1dea-4898-9c17-1f752be5c55d
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"authentication.k8s.io/v1beta1","resources":[{"name":"tokenreviews","singularName":"","namespaced":false,"kind":"TokenReview","verbs":["create"]}]}
